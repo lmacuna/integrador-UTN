@@ -23,7 +23,7 @@ function TareaFormulario(props) {
     }
 
     props.onSubmit(tareaNueva);
-    return(e.target.reset(),setInput("")) //add vaciar input y vaciar el valor del estado del input
+    return(e.target.reset(),setInput("")) //add vaciar input de manera visual desde el evento "e" e.target.reset() y vaciar el valor del estado del input con setInput("") para no agregar por repeticion de click la misma tarea
         
   }
  

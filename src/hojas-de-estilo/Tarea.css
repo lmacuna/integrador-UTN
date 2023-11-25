@@ -11,7 +11,7 @@
   border: solid 1px white;
   cursor: pointer;
   color: white;
-  margin: auto;
+  margin: auto;/* autocentrado de las tareas ya que tien un width de 500px se auto-centrara*/
   margin-top: 15px !important;
 }
 

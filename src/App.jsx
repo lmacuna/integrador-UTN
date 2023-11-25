@@ -2,6 +2,9 @@ import './App.css'
 import ListaDeTareas from './componentes/ListaDeTareas.jsx'
 import IconoAplicacion from './componentes/IconoAplicacion.jsx'
 
+
+
+//Se agrago un componente para la imagen de UTN + un h2
 function App() {
  
 
